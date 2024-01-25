@@ -1,7 +1,7 @@
 # custom-readme-generator
 ## Table of Contents
 
-1. [Description](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#descrption)
+1. [Description](https://github.com/EChrist01/custom-readme-generator?tab=readme-ov-file#descrption)
 2. [Installation](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#installation-instructions)
 3. [Usage](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#usage-information)
 4. [Demo](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#link-to-deployed-site)
