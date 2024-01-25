@@ -5,7 +5,7 @@
 2. [Installation](https://github.com/EChrist01/custom-readme-generator/blob/main/README.md#installation-instructions)
 3. [Usage](https://github.com/EChrist01/custom-readme-generator/blob/main/README.md#usage-information)
 4. [Demo](https://github.com/EChrist01/custom-readme-generator/blob/main/README.md#demo-video)
-5. [Questions](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#questions)
+5. [Questions](https://github.com/EChrist01/custom-readme-generator/blob/main/README.md#questions)
 
 ## Descrption.
 
