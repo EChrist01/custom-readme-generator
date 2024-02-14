@@ -35,6 +35,9 @@ complete all prompts for a more custom README!
 ## Demo.
 https://watch.screencastify.com/v/bW2begWAJ7xRfSQWWDNG
 
+![Screenshot 2024-02-14 002519](https://github.com/EChrist01/custom-readme-generator/assets/146894896/f404197a-076a-4b6c-bde6-e9814e09ceff)
+
+
 ## Questions
 Github profile: 
 Email: Ethanchrist02@gmail.com
