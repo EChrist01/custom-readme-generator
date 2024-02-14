@@ -26,10 +26,12 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Installation Instructions.
-This application uses inquirer, and node.js.
+This application mostly uses inquirer, and node.js.
 
 ## Usage Information.
-Page link will open the website, 
+run-< $ node index.js >-
+in terminal to begin the prompts to build the README,
+answer all prompts to allow for a more custom generated README.
 
 ## Demo Video.
 https://watch.screencastify.com/v/wjBt73Y7noPPqVBr705M
